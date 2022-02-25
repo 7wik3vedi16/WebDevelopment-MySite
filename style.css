@@ -1,6 +1,6 @@
 .top-container {
   background-color: #E4F9F5;
-  height:690px;
+  height:45.5rem;
 }
 
 body {
@@ -10,9 +10,9 @@ body {
 }
 
 h1 {
-  margin-top: 45px;
+  margin-top: 2.8125rem;
   font-family: 'Sacramento', cursive;
-  font-size: 70px;
+  font-size: 5rem;
 }
 
 h2 {
@@ -25,12 +25,12 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  left:300px;
+  left:18.75rem;
 }
 
 .top-cloud {
-  margin-top: 50px;
-  margin-left: 500px;
+  margin-top: 3.125rem;
+  margin-left: 31.25rem;
 }
 
 .mountain {
@@ -62,93 +62,93 @@ a:active {
 }
 
 .Profile {
-  margin-top: 8px;
+  margin-top: 0.5rem;
   background-color: #FDEFF4;
 }
 
 .Skills {
-  margin-top:8px;
+  margin-top:0.5rem;
   background-color: #FBF8F1;
 }
 .English{
   background-color: #FFF89A;
   position:absolute;
-  left:900px;
-  width:350px;
-  border-radius: 25px;
-  box-shadow: 5px 5px 3px #ccc;
+  left:56.25rem;
+  width:21.875rem;
+  border-radius: 1.5625rem;
+  box-shadow: 0.3125rem 0.3125rem 0.1875rem #ccc;
 }
 .Coding
 {
-  width:350px;
+  width:21.875rem;
   background-color: #CDF2CA;
-  margin-left:20px;
-  border-radius: 25px;
-  box-shadow: 5px 5px 3px #ccc;
+  margin-left:1.25rem;
+  border-radius:1.5625rem;
+  box-shadow: 0.3125rem 0.3125rem 0.1875rem #ccc;
 }
 .Chess
 {
-  width:350px;
+  width:21.875rem;
   background-color:#B5EAEA;
   margin: auto;
-  border-radius: 25px;
-box-shadow: 5px 5px 3px #ccc;
+  border-radius: 1.5625rem;
+box-shadow: 0.3125rem 0.3125rem 0.1875rem #ccc;
 }
 .Education
 {
   background-color: #F4F9F9;
-  margin-top: 8px;
-  height:550px;
-  border-radius: 25px;
+  margin-top: 0.5rem;
+  height:30rem;
+  border-radius: 1.5625rem;
 }
 .Swaraj
 {
-  width:400px;
+  width:25rem;
   position: absolute;
-  margin-left: 20px;
+  margin-left: 1.25rem;
   background-color: #FCF8E8;
-  border-radius: 25px;
+  border-radius: 1.5625rem;
 }
 .Boys
 {
-  width:400px;
+  width:25rem;
   position: absolute;
-  margin-left: 850px;
+  margin-left: 53.125rem;
   background-color: #D9E4DD;
-  border-radius: 25px;
+  border-radius: 1.5625rem;
 }
 .Bethel
 {
-  width:400px;
+  width:25rem;
   position: absolute;
-  margin-left: 20px;
+  margin-left: 1.25rem;
   background-color:#FFBB91;
-  border-radius: 25px;
+  border-radius: 1.5625rem;
 }
 .BHU{
-  width:400px;
+  width:25rem;
   position: absolute;
-  margin-left: 850px;
+  margin-left: 53.125rem;
   background-color:#E8E8E8;
-  border-radius: 25px;
+  border-radius: 1.5625rem;
 }
 .Contact
 {
-  margin-top: 8px;
+  margin-top: 0.5rem;
   background-color: #FFF5FD;
 }
 .instagram
 {
   position: absolute;
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 .linkedin
 {
   position:absolute;
-  margin-left: 450px;
+  margin-left: 28.125rem;
 }
 .mail
 {
   position: relative;
-  margin-left: 900px;
+  margin-left: 56.25rem;
 }
